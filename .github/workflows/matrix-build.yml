@@ -47,7 +47,7 @@ jobs:
           # echo -e "# Anddea Patches\n" >> release_notes.md
           # dateAnddea=$(date -u -d $(gh release view --json publishedAt -q .publishedAt --repo anddea/revanced-patches))
           # echo -e "\n Published on $dateAnddea\n" >> release_notes.md
-          # gh release view v2.225.0-dev.21 --json body -q .body --repo anddea/revanced-patches >> release_notes.md
+          # gh release view --json body -q .body --repo anddea/revanced-patches >> release_notes.md
           # echo -e "\n---\n" >> release_notes.md
           echo -e "\nUse [MicroG](https://github.com/ReVanced/GmsCore/releases/latest) for YouTube and Music" >> release_notes.md
           sed -i "1s/^/Release $version\n\n/" release_notes.md
