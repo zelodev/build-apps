@@ -39,7 +39,7 @@ jobs:
           echo -e "\n Published on $dateRevanced\n" >> release_notes.md
           gh release view --json body -q .body --repo revanced/revanced-patches >> release_notes.md
           echo -e "\n---\n" >> release_notes.md
-          echo -e "# ReX Patches\n" >> release_notes.md
+          echo -e "# RVX Patches\n" >> release_notes.md
           dateRex=$(date -u -d $(gh release view --json publishedAt -q .publishedAt --repo inotia00/revanced-patches))
           echo -e "\n Published on $dateRex\n" >> release_notes.md
           gh release view --json body -q .body --repo inotia00/revanced-patches >> release_notes.md
