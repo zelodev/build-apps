@@ -61,12 +61,12 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - id: "YT ReVanced"
-          - id: "YT Music ReVanced"
-          - id: "Twitch ReVanced"
-          - id: "Twitter ReVanced"
-          - id: "Reddit ReVanced"
-          - id: "TikTok ReVanced"
+          - id: "YT-ReVanced"
+          - id: "YT-Music-ReVanced"
+          - id: "Twitch-ReVanced"
+          - id: "Twitter-ReVanced"
+          - id: "Reddit-ReVanced"
+          - id: "TikTok-ReVanced"
           
     env:
       RELEASE_VERSION: ${{ needs.generate-release.outputs.version }}
