@@ -1,21 +1,23 @@
-[TikTok-ReVanced]
+rv-brand = "ReVanced"
+
+[TikTok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 included-patches = "'SIM spoof'"
 
-[YT-ReVanced]
+[YT]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 included-patches = "'Custom branding'"
 
-[YT-Music-ReVanced]
+[YTMusic]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 arch = "both"
 
-[Twitch-ReVanced]
+[Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
-[Twitter-ReVanced]
+[Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 included-patches = "'Open links with app chooser'"
 
-[Reddit-ReVanced]
+[Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
