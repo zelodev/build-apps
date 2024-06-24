@@ -8,6 +8,7 @@ included-patches = "'Custom branding'"
 
 [YT-Music-ReVanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+arch = "both"
 
 [Twitch-ReVanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
