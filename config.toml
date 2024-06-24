@@ -1,20 +1,20 @@
-[TikTok ReVanced]
+[TikTok-ReVanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 included-patches = "'SIM spoof'"
 
-[YT ReVanced]
+[YT-ReVanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 included-patches = "'Custom branding'"
 
-[YT Music ReVanced]
+[YT-Music-ReVanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 
-[Twitch ReVanced]
+[Twitch-ReVanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
-[Twitter ReVanced]
+[Twitter-ReVanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 included-patches = "'Open links with app chooser'"
 
-[Reddit ReVanced]
+[Reddit-ReVanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
