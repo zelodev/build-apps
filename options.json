@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "patchName": "Custom branding",
+    "options": [
+      {
+        "key": "appName",
+        "value": "YT ReVanced"
+      },
+      {
+        "key": "iconPath",
+        "value": "ReVanced*Logo"
+      }
+    ]
+  }
+]
