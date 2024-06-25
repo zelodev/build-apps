@@ -60,6 +60,9 @@ jobs:
           - id: "Twitter"
           - id: "Reddit"
           - id: "TikTok"
+          - id: "YTMusic-Extended"
+          - id: "YT-Extended"
+          - id: "Reddit-Extended"
           
     env:
       RELEASE_VERSION: ${{ needs.generate-release.outputs.version }}
