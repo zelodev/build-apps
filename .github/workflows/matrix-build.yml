@@ -55,11 +55,9 @@ jobs:
       matrix:
         include:
           - id: "YT"
-          - id: "YTMusic"
+          - id: "TikTok"
           - id: "Twitch"
           - id: "Twitter"
-          - id: "Reddit"
-          - id: "TikTok"
           - id: "YTMusic-Extended"
           - id: "YT-Extended"
           - id: "Reddit-Extended"
