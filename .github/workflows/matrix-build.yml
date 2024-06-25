@@ -55,7 +55,7 @@ jobs:
       matrix:
         include:
           - id: "YT"
-          - id: "YT-Music"
+          - id: "YTMusic"
           - id: "Twitch"
           - id: "Twitter"
           - id: "Reddit"
