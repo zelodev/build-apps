@@ -1,14 +1,14 @@
 rv-brand = "ReVanced"
 
-[TikTok]
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-included-patches = "'SIM spoof'"
-build-mode = "apk"
-
 [YT]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 included-patches = "'Custom branding'"
+build-mode = "apk"
+
+[TikTok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+included-patches = "'SIM spoof'"
 build-mode = "apk"
 
 [Twitch]
