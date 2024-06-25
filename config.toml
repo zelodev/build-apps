@@ -10,7 +10,7 @@ included-patches = "'Custom branding'"
 
 [YTMusic]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-arch = "both"
+arch = "arm64-v8a"
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
