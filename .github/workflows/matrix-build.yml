@@ -54,13 +54,8 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - id: "YT"
-          - id: "TikTok"
-          - id: "Twitch"
-          - id: "Twitter"
-          - id: "YTMusic-Extended"
-          - id: "YT-Extended"
-          - id: "Reddit-Extended"
+          - id: "YouTube"
+          - id: "YouTube-anddea"
           
     env:
       RELEASE_VERSION: ${{ needs.generate-release.outputs.version }}
