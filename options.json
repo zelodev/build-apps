@@ -1,1 +1,107 @@
-[]
+[
+  {
+    "patchName": "Custom branding",
+    "options": [
+      {
+        "key": "appName",
+        "value": "YT ReVanced"
+      },
+      {
+        "key": "iconPath",
+        "value": "ReVanced*Logo"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon for YouTube",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "afn_red"
+      },
+      {
+        "key": "ChangeSplashIcon",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for YouTube",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "YT RVX"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "app.rvx.android.yt"
+      },
+      {
+        "key": "PackageNameYouTubeMusic",
+        "value": "app.rvx.android.ytmusic"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon for YouTube Music",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "afn_red"
+      },
+      {
+        "key": "ChangeSplashIcon",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for YouTube Music",
+    "options": [
+      {
+        "key": "AppNameNotification",
+        "value": "YTMusic RVX"
+      },
+      {
+        "key": "AppNameLauncher",
+        "value": "YTMusic RVX"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTubeMusic",
+        "value": "app.rvx.android.ytmusic"
+      },
+      {
+        "key": "PackageNameYouTube",
+        "value": "app.rvx.android.yt"
+      }
+    ]
+  },
+  {
+    "patchName": "Change package name",
+    "options": [
+      {
+        "key": "PackageNameReddit",
+        "value": "com.reddit.frontpage.rvx"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for Reddit",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "Reddit RVX"
+      }
+    ]
+  }
+]
